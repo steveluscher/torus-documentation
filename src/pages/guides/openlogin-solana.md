@@ -38,7 +38,7 @@ library to derive ED25519 key which is compatible with solana.
 ```shell
 npm install --save @toruslabs/openlogin
 npm install --save @toruslabs/openlogin-ed25519
-npm install --save @solana/web3.js
+npm install --save @solana/web3.js@1
 ```
 
 ## Initialize solana web3 connection
